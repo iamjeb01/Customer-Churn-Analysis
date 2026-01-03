@@ -12,11 +12,13 @@
 8. [Dashboard Screenshots](Dashboard-Screenshots)
 9. [Key Findings](Key-Findings)
 10. [Recommendations](Recommendations)
-    
+
 ---
 
 ## Project Title
 ### Customer Churn Analysis for a Bank
+
+---
 
 ## Project Overview
 
@@ -40,7 +42,7 @@ The objectives of this analysis are to:
 
 - Provide data-driven insights to support customer retention and business decision-making.
 
-  ---
+---
 
 ## Data Source
 The dataset represents 10,000 bank customers and includes customer demographic information, account details, credit scores, tenure, balance ranges, and churn status. The data was provided in a structured format suitable for analysis and visualization.
@@ -54,8 +56,7 @@ The dataset represents 10,000 bank customers and includes customer demographic i
 
 - DAX – Measures and calculated fields for churn metrics
 
-  ---
-
+---
   
 ## Data Cleaning & Preparation
 ### The following data preparation steps were carried out:
@@ -70,7 +71,7 @@ The dataset represents 10,000 bank customers and includes customer demographic i
 
 - Validated data types and relationships between tables
 
-  ---
+---
 
 ## Exploratory Data Analysis (EDA)
 EDA was conducted to understand the structure and distribution of the data. Key activities included:
@@ -83,7 +84,7 @@ EDA was conducted to understand the structure and distribution of the data. Key 
 
 - Identifying outliers and unusual trends
 
-  ---
+---
 
 ## Data Analysis
 The analysis focused on answering the following business questions:
@@ -98,7 +99,7 @@ The analysis focused on answering the following business questions:
 
 - Interactive visuals were used to compare churn rates across multiple dimensions.
 
-  ---
+---
 
 ## Dashboard Screenshots
 
@@ -118,7 +119,7 @@ The analysis focused on answering the following business questions:
 
 6. Middle-aged customers show notable churn compared to younger groups
 
-  ---
+---
 
 ## Recommendations
 1. Improve onboarding and engagement for new customers within the first year
