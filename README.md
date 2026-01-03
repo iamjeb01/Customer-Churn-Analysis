@@ -50,9 +50,9 @@ The dataset represents 10,000 bank customers and includes customer demographic i
 ---
 
 ## Tools Used
-- Power BI – Data modeling, analysis, and dashboard creation
+- Power BI – Data modeling and analysis
 
-- Microsoft Excel – Initial data review and cleaning
+- Microsoft Excel – Initial data review, cleaning and dashboard creation
 
 - DAX – Measures and calculated fields for churn metrics
 
