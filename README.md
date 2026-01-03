@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-1. [Project Title](Project-Title)
-2. [Project Overview](Project-Overview)
-3. [Data Source](Data-Source)
-4. [Tools Used](Tools-Used)
-5. [Data Cleaning & Preparation](Data-Cleaning-&-Preparation)
-6. [Exploratory Data Analysis (EDA)](Exploratory-Data-Analysis-(EDA))
-7. [Data Analysis](Data-Analysis)
-8. [Dashboard Screenshots](Dashboard-Screenshots)
-9. [Key Findings](Key-Findings)
-10. [Recommendations](Recommendations)
+1. [Project Title](#Project-Title)
+2. [Project Overview](#Project-Overview)
+3. [Data Source](#Data-Source)
+4. [Tools Used](#Tools-Used)
+5. [Data Cleaning & Preparation](#Data-Cleaning-&-Preparation)
+6. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+7. [Data Analysis](#Data-Analysis)
+8. [Dashboard Screenshots](#Dashboard-Screenshots)
+9. [Key Findings](#Key-Findings)
+10. [Recommendations](#Recommendations)
 
 ---
 
