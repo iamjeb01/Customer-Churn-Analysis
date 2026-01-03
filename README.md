@@ -102,7 +102,8 @@ The analysis focused on answering the following business questions:
 ---
 
 ## Dashboard Screenshots
-![Customer Churn Analysis Dashboard](WhatsApp-Image-2025-12-31-at-11.44.13_48f7cc88.jpg)
+  
+![WhatsApp Image 2025-12-31 at 11 44 13_48f7cc88](https://github.com/user-attachments/assets/df3bfbfe-314d-465a-a030-b6c6c8cba99a)
 
 ---
 
